@@ -1,0 +1,5 @@
+##to compile a file
+g++ name.cpp -o name -std=c++11 `fltk-config --ldflags`
+##to open other file within vim
+:vs name.ext
+

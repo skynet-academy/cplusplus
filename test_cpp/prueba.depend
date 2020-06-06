@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1542228465 source:/home/sky-net/Documents/Computational_systems/prueba/main.cpp
+	<stdio.h>
+	<thread>
+	<pthread.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<functional>
+	<map>
+
